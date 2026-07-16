@@ -12,3 +12,7 @@ LAB 7
 <img width="1911" height="767" alt="aws lab7-2" src="https://github.com/user-attachments/assets/043308ad-7a1e-41d3-af5b-3f6d69ff03a9" />
 <img width="1895" height="619" alt="aws lab7-3" src="https://github.com/user-attachments/assets/a477a585-a286-484f-a739-490aa3922e78" />
 
+LAB 8 
+<img width="1079" height="597" alt="awsLab8-1" src="https://github.com/user-attachments/assets/1f9b91e2-c117-4e36-8e7b-4f1a0712a9b9" />
+<img width="1909" height="490" alt="awslab8-2" src="https://github.com/user-attachments/assets/62a079d0-98c1-4639-bc78-4ec50b1b599e" />
+
